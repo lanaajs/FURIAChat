@@ -110,7 +110,6 @@ http://localhost:3000
 A documentação completa está disponível na pasta `/doc`, contendo:
 
 - 📋 **Apresentação e Levantamento de Requisitos**
-- 🔁 **Fluxograma de Conversação**
 - 🧱 **Arquitetura e Caso de Uso**
 - 🖼️ **Protótipo em Figma**
 
