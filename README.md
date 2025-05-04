@@ -125,7 +125,14 @@ Este projeto está licenciado sob a **MIT License**.
 ## 🎥 Apresentação em Vídeo
 
 📽️ Link para o vídeo demonstrativo da aplicação:  
-*(Inserir link aqui assim que o vídeo estiver disponível)*
+🔗 [Google Drive](https://drive.google.com/file/d/1DCGfj1A4FbcQsHWeUzPYWKlfk_j51RVI/view?usp=sharing)
+
+---
+
+## 🛠️ Protótipo
+
+🛠️ Link para o Figma:  
+🔗 [Figma](https://www.figma.com/proto/kxPP9CT1hRy0g0oD7Rxh9B/Untitled?node-id=1-16&p=f&t=KYl3l06y8LoO1n0O-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A16)
 
 ---
 
