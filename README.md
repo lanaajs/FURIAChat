@@ -121,6 +121,13 @@ Este projeto está licenciado sob a **MIT License**.
 
 ---
 
+## 💬 Chatbot Hospedado pelo Vercel
+
+💬 Link para o site:  
+🔗 [FURIAChat](https://furia-chat-xi.vercel.app/FURIAChat/index.html)
+
+---
+
 ## 🎥 Apresentação em Vídeo
 
 📽️ Link para o vídeo demonstrativo da aplicação:  
