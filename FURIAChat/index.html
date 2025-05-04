@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/icon-furia.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/furiaChat.css">
+    <link rel="stylesheet" href="css/menuLateral.css">
+    <link rel="stylesheet" href="css/chat.css">
+    <title>FuriaChat</title>
+</head>
+
+<body>
+    <div id="sidebar" class="closed">
+        <nav>
+            <ul>
+                <li class="store-item">
+                    <img src="img/carrinho-compras.png" alt="Carrinho de Compra" class="cart-icon">
+                    <a href="https://www.furia.gg/" target="_blank">FURIA Store</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="content">
+        <header>
+            <button id="menu-button">
+                <img src="img/menu-lateral.png" alt="Menu Lateral">
+            </button>
+
+            <img src="img/logo-furia-nome.png" alt="FURIA" id="nome-furia-button">
+
+            <img src="img/icon-furia.png" alt="Logo Icon FURIA" id="icon-button">
+        </header>
+
+        <main>
+            <div id="boas-vindas">
+                <h1>Bem-vindo ao </h1>
+                <img src="img/logo-furia-nome.png" alt="FURIA">
+                <h1 id="chat">Chat</h1>
+            </div>
+
+            <div id="pesquisa">
+                <div class="pesquisa-wrapper">
+                    <input type="text" name="pesquisa" id="barra-pesquisa"
+                        placeholder="Vamos falar de FURIA? Me diga o que você quer saber.">
+                    <button id="botao-enviar">
+                        <img src="img/icon-enviar.png" alt="Enviar" id="icon-enviar">
+                    </button>
+                </div>
+            </div>
+
+            <div id="chat-container">
+                <div id="messages">
+                    <!-- As mensagens serão inseridas aqui -->
+                </div>
+            </div>
+
+            <div id="informações">
+                <div class="info">
+                    <h6>FURIAChat</h6>
+                    <p>
+                        Um espaço interativo para fãs conhecerem mais sobre a FURIA, tirar dúvidas e conversar sobre o
+                        universo da organização.
+                    </p>
+                </div>
+
+                <div class="info">
+                    <h6>FURIA</h6>
+                    <p>
+                        Uma das maiores organizações de eSports do Brasil, destaque mundial em jogos como CS:GO,
+                        Valorant e
+                        LoL.
+                    </p>
+                </div>
+
+                <div class="info">
+                    <h6>FURIA Fãs</h6>
+                    <p>
+                        Torcida fiel e engajada que apoia a FURIA em campeonatos, lives e nas redes sociais.
+                    </p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="js/menuLateral.js"></script>
+    <script src="js/chat.js"></script>
+</body>
+
+</html>
