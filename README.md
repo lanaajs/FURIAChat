@@ -61,9 +61,6 @@ O desafio faz parte do processo seletivo para uma vaga de tecnologia e propôs a
 │   ├── chat.css
 │   ├── furiaChat.css
 │   └── menuLateral.css
-├── /doc                      # Documentação completa do projeto
-│   ├── /analise do projeto
-│   └── /prototipo
 ├── /img                      # Imagens do projeto
 ├── /js                       # Scripts JS para o chat e interações
 │   ├── chat.js
